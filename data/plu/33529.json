@@ -7,7 +7,7 @@
     "parkings": "1 pl/log",
     "parkings_collectif": "1 pl/log",
     "limites_separatives": "4 m",
-    "recul_voie": "1 m min",
+    "recul_voie": "1 m",
     "fond_parcelle": "4 m",
     "implantation": "continu, semi-continu",
     "piscinable": "sans prescriptions"
@@ -20,7 +20,7 @@
     "parkings": "1 pl/log",
     "parkings_collectif": "1 pl/log",
     "limites_separatives": "4 m",
-    "recul_voie": "1 m min",
+    "recul_voie": "1 m",
     "fond_parcelle": "4 m",
     "implantation": "continu, semi-continu",
     "piscinable": "sans prescriptions"
@@ -33,7 +33,7 @@
     "parkings": "2 pl/log",
     "parkings_collectif": "1 pl/log",
     "limites_separatives": "4 m",
-    "recul_voie": "1 m min",
+    "recul_voie": "1 m",
     "fond_parcelle": "4 m",
     "implantation": "continu, semi-continu",
     "piscinable": "sans prescriptions"
@@ -46,7 +46,7 @@
     "parkings": "2 pl/log",
     "parkings_collectif": "2 pl/log",
     "limites_separatives": "4 m",
-    "recul_voie": "3 m min",
+    "recul_voie": "3 m",
     "fond_parcelle": "4 m",
     "implantation": "discontinu, semi-continu",
     "piscinable": "sans prescriptions"
@@ -72,7 +72,7 @@
     "parkings": "2 pl/log",
     "parkings_collectif": "2 pl/log",
     "limites_separatives": "4 m",
-    "recul_voie": "6 m min",
+    "recul_voie": "6 m",
     "fond_parcelle": "4 m",
     "implantation": "discontinu",
     "piscinable": "oui"
@@ -85,7 +85,7 @@
     "parkings": "2 pl/log",
     "parkings_collectif": "2 pl/log",
     "limites_separatives": "4 m",
-    "recul_voie": "6 m min",
+    "recul_voie": "6 m",
     "fond_parcelle": "4 m",
     "implantation": "semi-continu, discontinu",
     "piscinable": "oui"
@@ -137,7 +137,7 @@
     "parkings": "1 pl/log",
     "parkings_collectif": "1 pl/log",
     "limites_separatives": "4 m",
-    "recul_voie": "6 m min",
+    "recul_voie": "6 m",
     "fond_parcelle": "4 m",
     "implantation": "semi-continu, discontinu",
     "piscinable": "oui"
@@ -150,7 +150,7 @@
     "parkings": "1 pl/log",
     "parkings_collectif": "1 pl/log",
     "limites_separatives": "4 m",
-    "recul_voie": "6 m min",
+    "recul_voie": "6 m",
     "fond_parcelle": "4 m",
     "implantation": "semi-continu, discontinu",
     "piscinable": "oui"
@@ -163,7 +163,7 @@
     "parkings": "1 pl/log",
     "parkings_collectif": "1 pl/log",
     "limites_separatives": "4 m",
-    "recul_voie": "6 m min",
+    "recul_voie": "6 m",
     "fond_parcelle": "4 m",
     "implantation": "semi-continu, discontinu",
     "piscinable": "oui"
@@ -176,7 +176,7 @@
     "parkings": "1 pl/log",
     "parkings_collectif": "1 pl/log",
     "limites_separatives": "4 m",
-    "recul_voie": "6 m min",
+    "recul_voie": "6 m",
     "fond_parcelle": "4 m",
     "implantation": "semi-continu, discontinu",
     "piscinable": "oui"
@@ -189,7 +189,7 @@
     "parkings": "1 pl/log",
     "parkings_collectif": "1 pl/log",
     "limites_separatives": "4 m",
-    "recul_voie": "6 m min",
+    "recul_voie": "6 m",
     "fond_parcelle": "4 m",
     "implantation": "semi-continu, discontinu",
     "piscinable": "oui"
@@ -202,7 +202,7 @@
     "parkings": "1 pl/log",
     "parkings_collectif": "1 pl/log",
     "limites_separatives": "4 m",
-    "recul_voie": "6 m min",
+    "recul_voie": "6 m",
     "fond_parcelle": "4 m",
     "implantation": "semi-continu, discontinu",
     "piscinable": "oui"
@@ -215,7 +215,7 @@
     "parkings": "1 pl/log",
     "parkings_collectif": "1 pl/log",
     "limites_separatives": "4 m",
-    "recul_voie": "6 m min",
+    "recul_voie": "6 m",
     "fond_parcelle": "4 m",
     "implantation": "semi-continu, discontinu",
     "piscinable": "oui"
@@ -228,7 +228,7 @@
     "parkings": "1 pl/log",
     "parkings_collectif": "1 pl/log",
     "limites_separatives": "4 m",
-    "recul_voie": "6 m min",
+    "recul_voie": "6 m",
     "fond_parcelle": "4 m",
     "implantation": "semi-continu, discontinu",
     "piscinable": "oui"
@@ -241,7 +241,7 @@
     "parkings": "1 pl/log",
     "parkings_collectif": "sans objet",
     "limites_separatives": "4 m",
-    "recul_voie": "3 m min",
+    "recul_voie": "3 m",
     "fond_parcelle": "4 m",
     "implantation": "discontinu",
     "piscinable": "sans prescriptions"
@@ -254,7 +254,7 @@
     "parkings": "1 pl/log",
     "parkings_collectif": "sans objet",
     "limites_separatives": "6 m",
-    "recul_voie": "3 m min",
+    "recul_voie": "3 m",
     "fond_parcelle": "6 m",
     "implantation": "discontinu",
     "piscinable": "sans prescriptions"
@@ -267,7 +267,7 @@
     "parkings": "1 pl/log",
     "parkings_collectif": "sans objet",
     "limites_separatives": "4 m",
-    "recul_voie": "6 m min",
+    "recul_voie": "6 m",
     "fond_parcelle": "4 m",
     "implantation": "discontinu",
     "piscinable": "oui"
@@ -280,7 +280,7 @@
     "parkings": "sans objet",
     "parkings_collectif": "commerce ≤50 m² 2 pl puis +1 pl/25 m²",
     "limites_separatives": "6 m",
-    "recul_voie": "8 m min",
+    "recul_voie": "8 m",
     "fond_parcelle": "6 m",
     "implantation": "discontinu",
     "piscinable": "non"
@@ -293,7 +293,7 @@
     "parkings": "sans objet",
     "parkings_collectif": "commerce ≤50 m² 2 pl puis +1 pl/25 m²",
     "limites_separatives": "6 m",
-    "recul_voie": "8 m min",
+    "recul_voie": "8 m",
     "fond_parcelle": "6 m",
     "implantation": "discontinu",
     "piscinable": "non"
